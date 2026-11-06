@@ -4,7 +4,7 @@
 给 AI agent 用，也给新加入的同学当速查手册。
 
 - 组织：<https://github.com/gxwtf>
-- 作者：广学五题坊（gxwtf）· [@kyoukawa](https://github.com/kyoukawa)
+- 共创：由广学五题坊社区共同维护（发起人 [@kyoukawa](https://github.com/kyoukawa)）
 - 线上项目示例：<https://reading.gxwtf.cn> · 文档站 <https://dev.gxwtf.cn>
 
 ## 里面有什么
@@ -42,4 +42,5 @@ MIT，见 [LICENSE](LICENSE)。
 
 ---
 
-Built and maintained by 广学五题坊（gxwtf）with [@kyoukawa](https://github.com/kyoukawa).
+由广学五题坊（gxwtf）社区共创 · 发起人 [@kyoukawa](https://github.com/kyoukawa)
+欢迎提交 PR 补充规范与踩坑记录。
